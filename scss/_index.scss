@@ -1,0 +1,16 @@
+.navbar{
+    animation-name: nav;
+    animation-timing-function: ease-in-out;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    a{
+        #logo-gordo{
+            border-radius: 80%;
+            width: 45%;
+        }
+    }
+}
+footer{
+    border-top: solid 1px rgb(22, 22, 22, 0.8);
+    margin-top: 1%;
+}
