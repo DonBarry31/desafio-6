@@ -1,8 +1,18 @@
-nav {
+.navbar {
   animation-name: nav;
   animation-timing-function: ease-in-out;
   animation-duration: 2s;
   animation-delay: 0s;
+}
+@keyframes nav{
+  0%{
+      width: 0%;
+      opacity: 0%;
+  }
+  100%{
+      width: 100%;
+      opacity: 100%;
+  }
 }
 nav a #logo-gordo {
   border-radius: 80%;
