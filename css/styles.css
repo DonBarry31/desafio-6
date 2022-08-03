@@ -1,10 +1,10 @@
-.navbar {
+nav {
   animation-name: nav;
   animation-timing-function: ease-in-out;
   animation-duration: 2s;
   animation-delay: 0s;
 }
-.navbar a #logo-gordo {
+nav a #logo-gordo {
   border-radius: 80%;
   width: 45%;
 }
